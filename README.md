@@ -17,5 +17,5 @@
 - **Arduino-based stopwatch with lap time functionality** : [Click here](https://github.com/mannya-won/Stopwatch-Project)
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/mannyakinframe)  
-- [Email](mannyak09762@gmail.com)   
+- [LinkedIn](https://www.linkedin.com/in/mannyakinframe)  
+- [Email](mailto:worldwhirl289@gmail.com)   
