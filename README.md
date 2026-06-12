@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Mannya
 
 🎓 4th Year B.Tech Student in **Electronics and Communication Engineering**
-💡 Interested in **VLSI Design**, **Digital Systems** and **FPGA & HDL programming** 
+
+💡 Interested in **VLSI Design**, **Digital Systems** , **FPGA** & **HDL programming**
+
 ⚙️ Comfortable with **Arduino IDE**, **basic MATLAB**, and **Python**
 
 
